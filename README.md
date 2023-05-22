@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,React,Redux,working with API,GitHub and DSA.**
-- 👨‍💻 All of my projects are available at [https://Upendrapal0607.github.io](https://Upendrapal0607.github.io)
+- 👨‍💻 All of my projects are available at [.github.io/](https://Upendrapal0607.github.io)
 - 📫 How to reach me **up06072000@gmail.com**
 
 - 📄 Know about my experiences [Upendra_Pal_Resume](https://drive.google.com/file/d/1LUouv3VLR2DatsqfJRh2b_gsIGKQLxC3/view?usp=share_link)
