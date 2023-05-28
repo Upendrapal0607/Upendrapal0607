@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at [Upendrapal0607](https://Upendrapal0607.github.io)
 - 📫 How to reach me **up06072000@gmail.com**
 
-- 📄 Know about my experiences [Upendra_Pal_Resume](https://drive.google.com/file/d/1LUouv3VLR2DatsqfJRh2b_gsIGKQLxC3/view?usp=share_link)
+- 📄 Know about my experiences [Upendra_Pal_Resume](https://drive.google.com/file/d/1UL5u7efunj8uxtYTD3D5RZ1VnTuOZFwg/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
