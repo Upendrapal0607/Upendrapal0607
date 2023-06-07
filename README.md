@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Upendra Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,React,Redux,working with API,GitHub and DSA.**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,React,Redux,TypeScript,Node.js,express.js,MongoDB,working with API,Chakra-UI,GitHub and DSA.**
 - 👨‍💻 All of my projects are available at [Upendrapal0607](https://Upendrapal0607.github.io)
 - 📫 How to reach me **up06072000@gmail.com**
 
