@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Upendra Pal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a passionate Full Stack Web Developer adept in MERN stack, looking for an opportunity to work in an environment where I can utilize my skills and learn and grow more.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upendrapal0607" alt="upendrapal0607" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,React,Redux,TypeScript,Node.js,express.js,MongoDB,working with API,Chakra-UI,GitHub and DSA.**
+- 🌱 I’m currently learning **Full Stack Development with strong problem solving skills asked me about HTML5, CSS3, JavaScript, Node.js and more teck stack**
 - 👨‍💻 All of my projects are available at [Upendrapal0607](https://Upendrapal0607.github.io)
 - 📫 How to reach me **up06072000@gmail.com**
 
