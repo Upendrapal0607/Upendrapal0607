@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Full Stack Development with strong problem solving skills asked me about HTML5, CSS3, JavaScript, Node.js and more teck stack**
 - 👨‍💻 All of my projects are available at [Upendrapal0607](https://Upendrapal0607.github.io)
-- 📫 How to reach me **up06072000@gmail.com**
+- 📫 How to reach me **upendrapal06072@gmail.com**
 
-- 📄 Know about my experiences [Upendra_Pal_Resume](https://drive.google.com/file/d/1UL5u7efunj8uxtYTD3D5RZ1VnTuOZFwg/view?usp=drive_link)
+- 📄 Know about my experiences [Upendra_Pal_Resume](https://drive.google.com/file/d/1gByzJrLm5pMtjyME1jFQCtD72YdzTHMW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
