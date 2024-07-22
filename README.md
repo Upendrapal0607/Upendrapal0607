@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Upendra Pal</h1>
 <h3 align="center">I am a passionate Full Stack Web Developer adept in MERN stack, looking for an opportunity to work in an environment where I can utilize my skills and learn and grow more.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=upendrapal0607" alt="upendrapal0607" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=upendrapal0607"><img src="https://github-profile-trophy.vercel.app/?username=upendrapal0607" alt="upendrapal0607" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development with strong problem solving skills asked me about HTML5, CSS3, JavaScript, Node.js and more teck stack**
 - 👨‍💻 All of my projects are available at [Upendrapal0607](https://Upendrapal0607.github.io)
